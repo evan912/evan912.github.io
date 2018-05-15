@@ -11,7 +11,7 @@ I am a Data Scientist at OneAnalytix, Singapore. I finished my Ph.D. on informat
 
 ## Contact me
 
-hou.xiyuan <at> outlook <dot> com  
+hou.xiyuan \<at> outlook \<dot> com  
 
 
 ## Interests:
