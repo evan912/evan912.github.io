@@ -4,32 +4,39 @@ title: About
 permalink: /about/
 ---
 
-Xiyuan HOU
+### Xiyuan HOU
 
-### More Information
+## More Information
 
 I am a Data Scientist at OneAnalytix, Singapore. I finished my Ph.D. on information engineer from School of EEE, Nanyang Technological University (NTU), Singapore. My current work and research areas includes Big Data Analysis (Hadoop and spark), Machine/Deep Learning, Recommendation System, Human Computer Interaction.
 
 
-### Contact me
+## Contact me
 
 hou.xiyuan <at> outlook <dot> com  
 
 
 ## Interests:
 Data science, machine learning, deep learning, and blockchain.
+
 Big data analysis, Hadoop, Spark, Drill, Linux / Unix. 
+
 Brain-computer interaction, graphic/haptic rendering, virtual reality.
 
 
 ## Education:   
-Ph.D.  in Information Engineering, 2009 - 2013 
+### Ph.D.  in Information Engineering, 2009 - 2013 
+
 Nanyang Technological University (NTU), Singapore
+
 School of Electrical and Electronic Engineering
 
-B.Eng. in Automation, 2004 - 2008
+### B.Eng. in Automation, 2004 - 2008
+
 Harbin Institute of Technology (HIT), China
+
 Department of Information Science and Engineering
+
 
 ## Projects:
 
