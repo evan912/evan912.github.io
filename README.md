@@ -1,2 +1,2 @@
-#### xiyuan blog github ####
+#### xy blog github ####
 [link](https://xiyuanhou.github.io)
